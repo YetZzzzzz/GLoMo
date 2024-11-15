@@ -27,8 +27,8 @@ Please rename the files as ur_funny.pkl and mustard.pkl, and move them into the 
 
 For CHERMA dataset, you can download from [LFMIM](https://github.com/sunjunaimer/LFMIM) through: 
 ```
- [https://pan.baidu.com/s/10PoJcXMDhRg4fzsq96A7rQ](https://pan.baidu.com/s/10PoJcXMDhRg4fzsq96A7rQ)
- Extraction code: CHER
+https://pan.baidu.com/s/10PoJcXMDhRg4fzsq96A7rQ
+Extraction code: CHER
 ```
 put the files into directory ./datasets/CHERMA0723/.
 
