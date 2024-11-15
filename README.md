@@ -9,14 +9,14 @@ Figure 1: The diagram of the GLoMo. The text, video and audio representations ar
 
 
 ### Datasets:
-The CMU-MOSI and CMU-MOSEI datasets can be downloaded according to [MIB]([GitHub - TmacMai/Multimodal-Information-Bottleneck: Multimodal Information Bottleneck: Learning Minimal Sufficient Unimodal and Multimodal Representations (MIB for multimodal sentiment analysis)](https://github.com/TmacMai/Multimodal-Information-Bottleneck)) and [MAG]([GitHub - WasifurRahman/BERT_multimodal_transformer](https://github.com/WasifurRahman/BERT_multimodal_transformer)) through the following link: 
+The CMU-MOSI and CMU-MOSEI datasets can be downloaded according to [MIB](https://github.com/TmacMai/Multimodal-Information-Bottleneck)) and [MAG](https://github.com/WasifurRahman/BERT_multimodal_transformer)through the following link: 
 pip install gdown
 gdown https://drive.google.com/uc?id=12HbavGOtoVCqicvSYWl3zImli5Jz0Nou
 gdown https://drive.google.com/uc?id=1VJhSc2TGrPU8zJSVTYwn5kfuG47VaNQ3. 
 Please move the files into directory ./datasets/.
 
 
-For UR-FUNNY and MUSTaRD, the dataset can be downloaded according to [HKT]([HKT/dataset/download.txt at main · matalvepu/HKT · GitHub](https://github.com/matalvepu/HKT/blob/main/dataset/download.txt)) through:
+For UR-FUNNY and MUSTaRD, the dataset can be downloaded according to [HKT](https://github.com/matalvepu/HKT/blob/main/dataset/download.txt) through:
 Download Link of UR-FUNNY:  https://www.dropbox.com/s/5y8q52vj3jklwmm/ur_funny.pkl?dl=1
 Download Link of MUsTARD: https://www.dropbox.com/s/w566pkeo63odcj5/mustard.pkl?dl=1
 Please rename the files as ur_funny.pkl and mustard.pkl, and move them into the directory ./datasets/.
@@ -71,4 +71,4 @@ Please cite our paper if you find our work useful for your research:
 }
 
 ### Acknowledgement
-Thanks to  [MIB]([GitHub - TmacMai/Multimodal-Information-Bottleneck: Multimodal Information Bottleneck: Learning Minimal Sufficient Unimodal and Multimodal Representations (MIB for multimodal sentiment analysis)](https://github.com/TmacMai/Multimodal-Information-Bottleneck)) , [MAG](https://github.com/WasifurRahman/BERT_multimodal_transformer),  [MCL](https://github.com/TmacMai/Multimodal-Correlation-Learning), [HKT](https://github.com/matalvepu/HKT), [LFMIM](https://github.com/sunjunaimer/LFMIM) for their great help to our codes and research. 
+Thanks to  [MIB](https://github.com/TmacMai/Multimodal-Information-Bottleneck)) , [MAG](https://github.com/WasifurRahman/BERT_multimodal_transformer),  [MCL](https://github.com/TmacMai/Multimodal-Correlation-Learning), [HKT](https://github.com/matalvepu/HKT), [LFMIM](https://github.com/sunjunaimer/LFMIM) for their great help to our codes and research. 
