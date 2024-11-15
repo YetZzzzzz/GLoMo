@@ -70,8 +70,11 @@ CUDA_VISIBLE_DEVICES='1,2,3' torchrun --nproc_per_node=1 GLoMo_MER.py \
         --epoch 20 \
         --batch_size 400 \
 ```
+
+
+
 ### Citation:
-Please cite our paper if you find our work useful for your research:
+**Addition results and settings of hyper-parameters can be found in GLoMo_appendix_final.pdf.** Please cite our paper if you find our work useful for your research:
 ```
 @inproceedings{zhuang2024glomo,
   title={GLoMo: Global-Local Modal Fusion for Multimodal Sentiment Analysis},
