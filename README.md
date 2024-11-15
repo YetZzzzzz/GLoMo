@@ -11,7 +11,7 @@ Figure 1: The diagram of the GLoMo. The text, video and audio representations ar
 ### Datasets:
 **Please move the following datasets into directory ./datasets/.**
 
-The CMU-MOSI and CMU-MOSEI datasets can be downloaded according to [MIB](https://github.com/TmacMai/Multimodal-Information-Bottleneck)) and [MAG](https://github.com/WasifurRahman/BERT_multimodal_transformer) through the following link: 
+The CMU-MOSI and CMU-MOSEI datasets can be downloaded according to [MIB](https://github.com/TmacMai/Multimodal-Information-Bottleneck) and [MAG](https://github.com/WasifurRahman/BERT_multimodal_transformer) through the following link: 
 ```
 pip install gdown
 gdown https://drive.google.com/uc?id=12HbavGOtoVCqicvSYWl3zImli5Jz0Nou
@@ -83,4 +83,4 @@ Please cite our paper if you find our work useful for your research:
 ```
 
 ### Acknowledgement
-Thanks to  [MIB](https://github.com/TmacMai/Multimodal-Information-Bottleneck)) , [MAG](https://github.com/WasifurRahman/BERT_multimodal_transformer),  [MCL](https://github.com/TmacMai/Multimodal-Correlation-Learning), [HKT](https://github.com/matalvepu/HKT), [LFMIM](https://github.com/sunjunaimer/LFMIM) for their great help to our codes and research. 
+Thanks to  [MIB](https://github.com/TmacMai/Multimodal-Information-Bottleneck) , [MAG](https://github.com/WasifurRahman/BERT_multimodal_transformer),  [MCL](https://github.com/TmacMai/Multimodal-Correlation-Learning), [HKT](https://github.com/matalvepu/HKT), [LFMIM](https://github.com/sunjunaimer/LFMIM) for their great help to our codes and research. 
