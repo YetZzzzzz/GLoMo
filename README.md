@@ -3,7 +3,7 @@ We propose the GloMo to integrate the multiple local representations,  and fuse 
 
 
 ### The Framework of GLoMo:
-![image]()
+![image](https://github.com/YetZzzzzz/GLoMo/blob/main/diagram.png)
 Figure 1: The diagram of the GLoMo. The text, video and audio representations are firstly processed by modality-specific encoders to get the global representations, followed by modality-specific MoEs layers to get the local representation of each modality. The global and local representations of the three modalities are then fed into the global-guided fusion module for prediction. The same color for dashed lines and boxes are used to represent the same operation’s inputs.
 
 
