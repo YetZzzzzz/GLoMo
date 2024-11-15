@@ -50,7 +50,7 @@ For MOSI and MOSEI, please run the following code in ./GLoMo_MSA/ through:
 ```
  python3 main_GLoMo.py --max_seq_length=60 --train_batch_size=240 --d_l=48 --layers=4 --dataset='mosi' --VISUAL_DIM=47 --learning_rate=4e-5 --n_epochs=70
  
- python3 main_GLoMo.py --max_seq_length=80 --train_batch_size=64 --d_l=192 --layers=3 --dataset='mosei' --VISUAL_DIM=35 --learning_rate=1e-5 --n_epochs=80
+ python3 main_GLoMo.py --max_seq_length=80 --train_batch_size=64 --d_l=192 --layers=3 --dataset='mosei' --VISUAL_DIM=35 --learning_rate=1e-5 --n_epochs=100
 ```
 
 For MUStARD and UR-FUNNY, please run the code in ./GLoMo_MHD/ through:
