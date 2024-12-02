@@ -34,13 +34,14 @@ Please put the files into directory ./datasets/CHERMA0723/.
 
 ### Prerequisites:
 ```
-- Python 3.8.10
-- CUDA 11.5
-- pytorch 1.12.1+cu113
-- transformers 4.30.2
+* Python 3.8.10
+* CUDA 11.5
+* pytorch 1.12.1+cu113
+* sentence-transformers 3.1.1
+* transformers 4.30.2
 ```
-see requirements.txt for more details. 
-**Note that the torch version can be changed to your cuda version, but please keep the transformers version as some functions will change in later versions**
+**Note that the torch version can be changed to your cuda version, but please keep the transformers==4.30.2 as some functions will change in later versions**
+
 
 ### Pretrained model:
 Downlaod the [BERT-base](https://huggingface.co/google-bert/bert-base-uncased/tree/main) , and put into directory ./BERT-EN/.
